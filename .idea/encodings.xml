@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/my-async-spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-datasource-spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-distributed-job-spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-dynamic-datasource-spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-es-spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-f2k-spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-fastdfs-spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-ftp-spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-kafka-spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-mongo-spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-redis-lock-spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-redisson-lock-spring-boot-starter" charset="UTF-8" />
+  </component>
+</project>

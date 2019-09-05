@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/my-dynamic-datasource-spring-boot-starter/iot-dynamic-datasource-spring-boot-starter.iml" filepath="$PROJECT_DIR$/my-dynamic-datasource-spring-boot-starter/iot-dynamic-datasource-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-redisson-lock-spring-boot-starter/iot-redisson-lock-spring-boot-starter.iml" filepath="$PROJECT_DIR$/my-redisson-lock-spring-boot-starter/iot-redisson-lock-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-async-spring-boot-starter/my-async-spring-boot-starter.iml" filepath="$PROJECT_DIR$/my-async-spring-boot-starter/my-async-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-datasource-spring-boot-starter/my-datasource-spring-boot-starter.iml" filepath="$PROJECT_DIR$/my-datasource-spring-boot-starter/my-datasource-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-distributed-job-spring-boot-starter/my-distributed-job-spring-boot-starter.iml" filepath="$PROJECT_DIR$/my-distributed-job-spring-boot-starter/my-distributed-job-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-dynamic-datasource-spring-boot-starter/my-dynamic-datasource-spring-boot-starter.iml" filepath="$PROJECT_DIR$/my-dynamic-datasource-spring-boot-starter/my-dynamic-datasource-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-es-spring-boot-starter/my-es-spring-boot-starter.iml" filepath="$PROJECT_DIR$/my-es-spring-boot-starter/my-es-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-f2k-spring-boot-starter/my-f2k-spring-boot-starter.iml" filepath="$PROJECT_DIR$/my-f2k-spring-boot-starter/my-f2k-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-fastdfs-spring-boot-starter/my-fastdfs-spring-boot-starter.iml" filepath="$PROJECT_DIR$/my-fastdfs-spring-boot-starter/my-fastdfs-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-ftp-spring-boot-starter/my-ftp-spring-boot-starter.iml" filepath="$PROJECT_DIR$/my-ftp-spring-boot-starter/my-ftp-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-kafka-spring-boot-starter/my-kafka-spring-boot-starter.iml" filepath="$PROJECT_DIR$/my-kafka-spring-boot-starter/my-kafka-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-mongo-spring-boot-starter/my-mongo-spring-boot-starter.iml" filepath="$PROJECT_DIR$/my-mongo-spring-boot-starter/my-mongo-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-redis-lock-spring-boot-starter/my-redis-lock-spring-boot-starter.iml" filepath="$PROJECT_DIR$/my-redis-lock-spring-boot-starter/my-redis-lock-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tool-or-starter.iml" filepath="$PROJECT_DIR$/.idea/tool-or-starter.iml" />
+    </modules>
+  </component>
+</project>

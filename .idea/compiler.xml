@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="iot-dynamic-datasource-spring-boot-starter" />
+        <module name="iot-redisson-lock-spring-boot-starter" />
+        <module name="my-async-spring-boot-starter" />
+        <module name="my-datasource-spring-boot-starter" />
+        <module name="my-distributed-job-spring-boot-starter" />
+        <module name="my-dynamic-datasource-spring-boot-starter" />
+        <module name="my-es-spring-boot-starter" />
+        <module name="my-f2k-spring-boot-starter" />
+        <module name="my-fastdfs-spring-boot-starter" />
+        <module name="my-ftp-spring-boot-starter" />
+        <module name="my-kafka-spring-boot-starter" />
+        <module name="my-mongo-spring-boot-starter" />
+        <module name="my-redis-lock-spring-boot-starter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="iot-dynamic-datasource-spring-boot-starter" target="1.8" />
+      <module name="iot-redisson-lock-spring-boot-starter" target="1.8" />
+      <module name="my-async-spring-boot-starter" target="1.8" />
+      <module name="my-datasource-spring-boot-starter" target="1.8" />
+      <module name="my-distributed-job-spring-boot-starter" target="1.8" />
+      <module name="my-dynamic-datasource-spring-boot-starter" target="1.8" />
+      <module name="my-es-spring-boot-starter" target="1.8" />
+      <module name="my-f2k-spring-boot-starter" target="1.8" />
+      <module name="my-fastdfs-spring-boot-starter" target="1.8" />
+      <module name="my-ftp-spring-boot-starter" target="1.8" />
+      <module name="my-kafka-spring-boot-starter" target="1.8" />
+      <module name="my-mongo-spring-boot-starter" target="1.6" />
+      <module name="my-redis-lock-spring-boot-starter" target="1.6" />
+      <module name="my-redisson-lock-spring-boot-starter" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="iot-dynamic-datasource-spring-boot-starter" options="-parameters" />
+      <module name="iot-redisson-lock-spring-boot-starter" options="-parameters" />
+      <module name="my-async-spring-boot-starter" options="-parameters" />
+      <module name="my-datasource-spring-boot-starter" options="-parameters" />
+      <module name="my-distributed-job-spring-boot-starter" options="-parameters" />
+      <module name="my-dynamic-datasource-spring-boot-starter" options="-parameters" />
+      <module name="my-es-spring-boot-starter" options="-parameters" />
+      <module name="my-f2k-spring-boot-starter" options="-parameters" />
+      <module name="my-fastdfs-spring-boot-starter" options="-parameters" />
+      <module name="my-ftp-spring-boot-starter" options="-parameters" />
+      <module name="my-kafka-spring-boot-starter" options="-parameters" />
+      <module name="my-mongo-spring-boot-starter" options="" />
+      <module name="my-redis-lock-spring-boot-starter" options="" />
+      <module name="my-redisson-lock-spring-boot-starter" options="-parameters" />
+    </option>
+  </component>
+</project>

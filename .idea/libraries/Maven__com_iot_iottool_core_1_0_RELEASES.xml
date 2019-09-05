@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.iot:iottool-core:1.0-RELEASES">
+    <CLASSES>
+      <root url="jar://D:/Maven/repo/com/iot/iottool-core/1.0-RELEASES/iottool-core-1.0-RELEASES.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Maven/repo/com/iot/iottool-core/1.0-RELEASES/iottool-core-1.0-RELEASES-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Maven/repo/com/iot/iottool-core/1.0-RELEASES/iottool-core-1.0-RELEASES-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

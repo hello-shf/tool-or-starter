@@ -1,0 +1,2 @@
+#配置springboot的starter自动化配置
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.softkey.F2k.config.F2kWebAdapterConfig,com.softkey.F2k.task.F2kTask

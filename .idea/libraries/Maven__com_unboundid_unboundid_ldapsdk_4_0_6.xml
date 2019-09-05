@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.unboundid:unboundid-ldapsdk:4.0.6">
+    <CLASSES>
+      <root url="jar://D:/Maven/repo/com/unboundid/unboundid-ldapsdk/4.0.6/unboundid-ldapsdk-4.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Maven/repo/com/unboundid/unboundid-ldapsdk/4.0.6/unboundid-ldapsdk-4.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Maven/repo/com/unboundid/unboundid-ldapsdk/4.0.6/unboundid-ldapsdk-4.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

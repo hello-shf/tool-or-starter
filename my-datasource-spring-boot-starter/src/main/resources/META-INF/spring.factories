@@ -1,0 +1,2 @@
+#�����Զ���Starter���Զ�������
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.baomidou.dynamic.datasource.spring.boot.autoconfigure.DynamicDataSourceAutoConfiguration,com.my.datasource.config.MybatisPlusConfig
