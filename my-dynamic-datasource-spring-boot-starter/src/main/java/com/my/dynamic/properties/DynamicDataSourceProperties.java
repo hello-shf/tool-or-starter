@@ -7,11 +7,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 @ConfigurationProperties(prefix = "iot-datasource")
-@ConditionalOnProperty(
-        prefix ="iot-dynamic-datasource",
-        name="isopen",
-        havingValue="true"
-)
 public class DynamicDataSourceProperties {
     private List<DynamicDataSourceEntity> db = new ArrayList<>();
 

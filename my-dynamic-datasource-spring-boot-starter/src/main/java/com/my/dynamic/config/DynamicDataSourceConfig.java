@@ -4,8 +4,6 @@ import com.alibaba.druid.pool.DruidDataSourceFactory;
 import com.my.dynamic.properties.DynamicDataSourceEntity;
 import com.my.dynamic.properties.DynamicDataSourceProperties;
 import com.my.dynamic.utils.DynamicDataSource;
-import org.apache.ibatis.session.SqlSessionFactory;
-import org.mybatis.spring.SqlSessionFactoryBean;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
@@ -76,7 +74,7 @@ public class DynamicDataSourceConfig {
      * 根据数据源创建SqlSessionFactory
      */
     //@Bean
-    public SqlSessionFactory sqlSessionFactory(DynamicDataSource ds) throws Exception {
+    /*public SqlSessionFactory sqlSessionFactory(DynamicDataSource ds) throws Exception {
         PathMatchingResourcePatternResolver resolver = new PathMatchingResourcePatternResolver();
 
         SqlSessionFactoryBean fb = new SqlSessionFactoryBean();
@@ -85,7 +83,7 @@ public class DynamicDataSourceConfig {
         fb.setTypeAliasesPackage("com.iot.dynamic.entity");// 指定基包
         fb.setMapperLocations(resolver.getResources("classpath:mapper/Mapper*.xml"));
         return fb.getObject();
-    }
+    }*/
 
 
 
